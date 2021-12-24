@@ -12,3 +12,8 @@ int mul(int a, int b)
 {
 	return a * b;
 }
+
+double div(double a, double b)
+{
+	return a / b; // 주석
+}
